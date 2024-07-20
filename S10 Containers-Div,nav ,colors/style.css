@@ -1,0 +1,51 @@
+.playerDiv{
+    background-color: aquamarine;
+    width: 300px;
+    height: 550px;
+    display: inline-block;
+    margin: 50px;
+    padding: 20px;
+    border: 20px outset  #C4874E;
+    border-radius: 40px;
+    box-shadow: 10px 10px 10px black;
+    overflow:hidden;
+}
+
+.playerPic{
+   width: 300px;
+}
+
+.playerDiv h2{
+    text-align: center;
+}
+
+.playerDiv p{
+    text-align: justify;
+    color: whitesmoke;
+}
+nav{
+    background-color: rgb(116, 49, 38);
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+nav a{
+   font-size: 2rem;
+   color: whitesmoke;
+}
+
+#klrahulDiv{
+    background-color: #9AA095
+    ;
+}
+
+#shreyasIyerDiv{
+    background-color: #288174
+    ;
+}
+
+#sanjuSamsonDiv{
+    background-color: #CD6B36;
+}
